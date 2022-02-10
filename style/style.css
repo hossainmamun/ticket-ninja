@@ -17,14 +17,6 @@ html {
   width: 100%;
 }
 
-#home .overlay {
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  background-color: rgba(0, 0, 0, 0.7);
-}
-
 #home .intro {
   height: 100vh;
   display: -webkit-box;
