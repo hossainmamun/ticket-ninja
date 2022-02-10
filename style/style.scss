@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  overflow-x: hidden;
+}
+#home {
+  background-image: url(/img/bus.png);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+
+  .intro {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
